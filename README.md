@@ -1,2 +1,2 @@
 # Jupyter-Workings
-This repo is a collection of trial and error workings in the data science and geology field
+This repository is a collection of workings in the field of data science and geology. Each Notebook represents a trial and error approach to problem solving, learning and occasionally blindly stumbling through Python language. 
